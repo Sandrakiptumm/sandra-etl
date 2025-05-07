@@ -9,4 +9,4 @@ A Python package to Extract, Transform, and Load data from CSVs, APIs, and datab
 
 ## Installation
 ```bash
-pip install elt-pipeline-sandra
+pip install sandraetl
